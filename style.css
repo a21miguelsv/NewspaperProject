@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Lora:400,700|Poppins:300,200');
+body>header, body>header a{
+    background-color: #046DD5;
+    color: white;
+    width: auto;
+}
+#related{
+    background-color: #2A2F33;
+    color: white;
+}
+nav li>a{
+    color: black;
+
+}
+a{
+    text-decoration: none;
+    font-family: Poppins;
+    color: white;
+}
+p{
+    font-family: Lora;
+}
+article>header>h1>a{
+    text-shadow: 0.2em 0.2em 5px black;
+}
+footer{
+    background-color: #F4655F;
+}
