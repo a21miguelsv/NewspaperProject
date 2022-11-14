@@ -25,4 +25,15 @@ article>header>h1>a{
 }
 footer{
     background-color: #F4655F;
+    color: white;
+    font-family: Poppins;
+}
+footer a{
+    text-decoration: underline;
+}
+body>footer{
+    background-color:#2A2F33;
+}
+section p:nth-of-type(1)::first-letter{
+    font-size: 30px;
 }
